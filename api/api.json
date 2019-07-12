@@ -1,0 +1,191 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "irwan",
+      "password": "mautauaja",
+      "cart" : [{
+        "title" : [],
+        "qty" : [],
+        "total" : []
+      }]
+    },
+    {
+      "id": 2,
+      "username": "ela",
+      "password": "mautauaja",
+      "cart" : [{
+        "title" : [],
+        "qty" : [],
+        "total" : []
+      }]
+    },
+    {
+      "username": "Amirah",
+      "password": "mautauaja",
+      "id": 3,
+      "cart" : [{
+        "title" : [],
+        "qty" : [],
+        "total" : []
+      }]
+    },
+    {
+      "username": "Lena",
+      "password": "mautauaja",
+      "id": 5,
+      "cart" : [{
+        "title" : [],
+        "qty" : [],
+        "total" : []
+      }]
+    },
+    {
+      "username": "Genji",
+      "password": "mautauaja",
+      "id": 6,
+      "cart" : [{
+        "title" : [],
+        "qty" : [],
+        "total" : []
+      }]
+    },
+    {
+      "username": "Ichi",
+      "password": "mautauaja",
+      "id": 7,
+      "cart" : [{
+        "title" : [],
+        "qty" : [],
+        "total" : []
+      }]
+    },
+    {
+      "username": "sanno",
+      "password": "mautauaja",
+      "id": 8,
+      "cart" : [{
+        "title" : [],
+        "qty" : [],
+        "total" : []
+      }]
+    },
+    {
+      "username": "ariza",
+      "password": "mautauaja",
+      "id": 9,
+      "cart" : [{
+        "title" : [],
+        "qty" : [],
+        "total" : []
+      }]
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "ANNABELLE COMES HOME",
+      "genre": "horror",
+      "sinopsis": "Pasangan suami istri Ed Warren (Patrick Wilson) dan Lorraine Warren (Vera Farmiga) sepakat untuk meletakkan boneka Annabelle di ruang khusus mereka. Dibalik lemari kaca suci dan mendapat berkat dari seorang pendeta. Namun malapetaka datang saat Annabelle membangunkan roh-roh jahat yang ada di ruangan itu. Putri pasangan ini, Judy Warren (Mckenna Grace) dan temannya menjadi target teror baru Annabelle dan iblis jahat lainnya.",
+      "playingAt": [
+        9,
+        14,
+        20
+      ],
+      "duration": 106,
+      "sutradara": "Gary Dauberman",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/156074568118284_300x430.jpg"
+    },
+    {
+      "title": " YESTERDAY",
+      "sutradara": "Danny Boyle",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/156022895488927_300x430.jpg",
+      "genre": "comedy",
+      "playingAt": [
+        "15",
+        "22"
+      ],
+      "duration": "112",
+      "sinopsis": "Apa jadinya jika semua orang di dunia tidak mengenal The Beatles? Jack Malik (Himesh Patel) adalah seorang musisi yang sedang berjuang mewujudkan mimpinya. Suatu hari ia memainkan lagu Yesterday karya The Beatles. Namun teman-teman yang mendengarkan Jack tidak mengetahui lagu tersebut. Jack dikisahkan sebagai satu-satunya orang di dunia yang mengingat karya-karya The Beatles",
+      "id": 3
+    },
+    {
+      "title": " SPIDER-MAN: FAR FROM HOME",
+      "sutradara": "John Watts",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/15610878872315_300x430.jpg",
+      "genre": "action",
+      "playingAt": [
+        "14",
+        "20",
+        "22"
+      ],
+      "duration": "130",
+      "sinopsis": "Setelah sibuk membantu kepolisian New York, Peter Parker (Tom Holland) memutuskan tidak membawa kostumnya saat ia melakukan perjalanan dengan teman-teman sekolahnya, MJ (Zendaya), Ned (Jacob Batalon), Betty (Beras Angourie) dan Flash (Tony Revolori). Namun ancaman datang dalam bentuk yang berbeda, teror mulai menyerang kota-kota di Eropa. Kemunculan sosok Mysterio (Jake Gyllenhaal), Nick Fury (Samuel L. Jackson) dan Happy Hogan (Jon Favreau) akan memberi petunjuk dan tugas baru untuk sang manusia laba-laba itu.",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "title": " THE POISON ROSE",
+      "genre": "thriller",
+      "sinopsis": "Carson Philips (John Travolta) adalah detektif swasta yang dihadapkan pada situasi yang sulit. Ia mendapatkan klien barunya, Jayne Hunt (Famke Janssen) adalah kisah dari masa lalunya. Jayne meminta bantuan Carson untuk menyelidiki kematian misterius di Texas. Untuk mengungkap kasus ini Carson akan berjumpa dengan Doc (Morgan Freeman) orang yang berpengaruh di kota. Mampukah Carson mengungkap kasus ini dan bertahan dari orang-orang yang berusaha menggagalkan rencananya.",
+      "playingAt": [
+        9,
+        20
+      ],
+      "duration": 110,
+      "sutradara": "Francesco Cinquemani, George Gallo",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/156171077455398_300x430.jpg"
+    },
+    {
+      "id": 6,
+      "title": " DILARANG MENYANYI DI KAMAR MANDI",
+      "genre": "comedy",
+      "sinopsis": "Suaranya sexy sekali. Mulut wanita itu hebat sekali, bibirnya merah dan basah. Setiap kali mendengar bunyi sabun menggosok kulit aku tidak bisa tidak membayangkan tubuh yang begitu penuh dan berisi. Seandainya tubuh itu ku peluk dan kubanting ke tempat tidur. Seandainya.. Belum habis kalimat suami itu, ketika istrinya berteriak keras sekali, sehingga terdengar sepanjang gang. Tolongngngngng! Suami saya berkhayal lagi! Tolongngngngng! Rupa-rupanya tanpa suara nyanyian dan bunyi byar-byur-byar-byur orang mandi, bisa dipastikan kebahagiaan rumah tangga warga sepanjang gang itu akan terganggu.",
+      "playingAt": [
+        14,
+        20
+      ],
+      "duration": 185,
+      "sutradara": "John De Rantau",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/156134672247507_300x430.jpg"
+    },
+    {
+      "title": "IKUT AKU KE NERAKA",
+      "genre": "Horror",
+      "sinopsis": "Hidup begitu sempurna bagi LITA (27thn), menikah dengan RAMA (30thn) Lelaki yang karirnya bagus sebagai management operasional di sebuah pabrik. Kehidupan mereka nyaris sempurna, ketika Lita akan melahirkan bayi pertama mereka. Saat hamil tua, Rama selalu ingin melihat Lita terlihat sempurna mendapat rekomendasi dari dokter ahli bedah plastik ternama, untuk bisa menghilangkan tanda lahir Lita di punggung nya, agar Lita lebih percaya diri. Proses operasi pun berjalan lancar, stretch mark di punggung Lita hilang. Kebahagiaan mereka tidak berlangsung lama karena Lita kerap diteror oleh mahluk halus berwujud wanita menyeramkan. Rama membawa Pak Adam untuk membersihkan rumah mereka dari gangguan hantu tersebut, Pak adam menjelaskan teror ini bukan dari rumah melainkan dari dalam diri Lita sendiri. Pak Adam hanya bisa memberikan petunjuk bahwa jawaban dari teror hantu tersebut ada di masa lalu Lita, yang harus dia telusuri kembali dengan meminta penjelasan dari SARI (50thn), ibu nya yang sudah dia tinggalkan. Saat ini Sari dirawat di rumah sakit jiwa, Sari mengalami gangguan jiwa setelah Lita meninggalkan nya. Lita harus mendapat petunjuk dari Sari yang sudah hilang akal sehat nya, di satu sisi teror semakin bertambah dan merenggut nyawa orang sekitar Rama dan Lita. Mereka harus menyelamatkan nyawa mereka dan juga sang bayji.",
+      "playingAt": [
+        22
+      ],
+      "duration": "270",
+      "sutradara": "Azhar Kinoi Lubis",
+      "image": "https://web3.21cineplex.com/movie-images/09IAKN.jpg",
+      "id": 8
+    },
+    {
+      "title": "HUSTLE",
+      "genre": "Comedy",
+      "sinopsis": "Josephine Chesterfield (Anne Hathaway) adalah penipu kelas atas, Ia hidup mewah dari hasil menipu. Sementara Penny Rust (Rebel Wilson) adalah penipu kelas teri. Mereka sama-sama berbakat dengan cara yang berbeda. Setelah dilatih di rumah besar Josephine, Penny akhirnya terjun ke lapangan dengan gaya baru yang tidak terduga.",
+      "playingAt": [
+        20,
+        22
+      ],
+      "duration": "134",
+      "sutradara": "Chris Addison",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/156214624187152_300x430.jpg",
+      "id": 9
+    },
+    {
+      "title": "LION KING",
+      "genre": "Drama",
+      "sinopsis": "Setelah ayahnya terbunuh, Simba, singa muda pewaris tahta melarikan diri dari kerajaannya hanya untuk mempelajari arti sebenarnya dari tanggung jawab dan keberanian.",
+      "playingAt": [
+        14,
+        16
+      ],
+      "duration": "130",
+      "sutradara": "John Favreau",
+      "image": "https://media.21cineplex.com/webcontent/gallery/pictures/156214810560901_300x430.jpg",
+      "id": 10
+    }
+  ]
+}
